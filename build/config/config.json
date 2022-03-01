@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF08422c71452F9Ac725f415320Cb356F64565119",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf08422c71452f9ac725f415320cb356f64565119",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Apepunk Club V2",
+  "SYMBOL": "APC",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2 ,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/apepunk-club-v2",
+  "SHOW_BACKGROUND": true
+}
