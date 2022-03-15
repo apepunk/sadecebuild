@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xF08422c71452F9Ac725f415320Cb356F64565119",
-  "SCAN_LINK": "https://polygonscan.com/address/0xf08422c71452f9ac725f415320cb356f64565119",
+  "CONTRACT_ADDRESS": "0x734Ad92B06967533cDb8893DB60266C527919022",
+  "SCAN_LINK": "https://polygonscan.com/token/0x734ad92b06967533cdb8893db60266c527919022",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Apepunk Club V2",
-  "SYMBOL": "APC",
+  "NFT_NAME": "Baby Apepunk Club",
+  "SYMBOL": "BAPC",
   "MAX_SUPPLY": 5555,
   "WEI_COST": 2000000000000000000,
   "DISPLAY_COST": 2 ,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/apepunk-club-v2",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/baby-apepunk-club",
   "SHOW_BACKGROUND": true
 }
