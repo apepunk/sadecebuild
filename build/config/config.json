@@ -6,13 +6,13 @@
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Apepunk Club V2",
+  "NFT_NAME": "Baby Apepunk Club",
   "SYMBOL": "APC",
   "MAX_SUPPLY": 5555,
   "WEI_COST": 2000000000000000000,
   "DISPLAY_COST": 2 ,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/apepunk-club-v2",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/baby-apepunk-club",
   "SHOW_BACKGROUND": true
 }
